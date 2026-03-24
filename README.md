@@ -89,5 +89,5 @@ The cleaning process follows four main steps:
 
 ## 🙋 Author
 
-**Your Name**
+**Farwah Hasnain**
 [GitHub](https://github.com/farwahasnain) · [LinkedIn](https://www.linkedin.com/in/farwah-hasnain/)
